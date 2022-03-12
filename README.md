@@ -3,6 +3,8 @@ Discovering methods &amp; tweaks!
 
 Most notable projects:
 
+* Intel NUC Model D54250WYKH [project overview](./d54250wykh) and [repository](https://github.com/mackonsti/d54250wykh)
+
 * Intel NUC Model NUC8i7BEH [project overview](./nuc8i7beh) and [repository](https://github.com/mackonsti/nuc8i7beh)
 
 * Intel NUC Model NUC10i7FNH [project overview](./nuc10i7fnh) and [repository](https://github.com/mackonsti/nuc10i7fnh)
